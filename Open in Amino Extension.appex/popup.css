@@ -1,0 +1,13 @@
+:root {
+    color-scheme: dark;
+}
+
+body {
+    margin: 15px;
+    font-family: system-ui;
+    text-align: center;
+}
+
+h5 {
+    margin: 10px;
+}
