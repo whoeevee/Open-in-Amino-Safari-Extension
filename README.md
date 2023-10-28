@@ -8,3 +8,8 @@ This extension allows you to open aminoapps.com links in the Amino app. Requires
 - Place `.appex` inside the `PlugIns` folder
 - Compress the `Payload` folder
 - Change the extension of compressed file from `.zip` to `.ipa`
+
+## How to Enable
+- Go to Settings > Safari > Extensions
+- Toggle `Open in Amino` on
+- Tap `aminoapps.com` and choose `Allow`
